@@ -3,20 +3,10 @@
 - 🌱 I’m passionate about problem solving.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muthee-p)
-![Contribution graph](https://github-readme-stats.vercel.app/api/contributions/?username=muthee-p)
+![Contribution graph](https://github-readme-stats.vercel.app/api/?username=muthee-p&show_icons-true)
 ![Total commits](https://github-readme-stats.vercel.app/api/commits/?username=muthee-p)
 
-<style>.github-readme-stats {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
 
-.github-readme-stats img {
-  width: 100%;
-  height: auto;
-}
-</style>
 
 <!---
 just-p254/just-p254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
