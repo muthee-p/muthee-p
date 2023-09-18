@@ -2,9 +2,9 @@
 - 👀 I’m a fullstack end web dev
 - 🌱 I’m passionate about problem solving.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muthee-p)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muthee-p&show_icons-true)
 ![Contribution graph](https://github-readme-stats.vercel.app/api/?username=muthee-p&show_icons-true)
-![Total commits](https://github-readme-stats.vercel.app/api/commits/?username=muthee-p)
+![Total commits](https://github-readme-stats.vercel.app/api/?username=muthee-p&show_icons-true)
 
 
 
