@@ -5,6 +5,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muthee-p&show_icons-true&theme=radical)
 ![Contribution graph](https://github-readme-stats.vercel.app/api/?username=muthee-p&show_icons-true&theme=radical)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=muthee-p&color=blue)
 ![Unity](https://img.shields.io/badge/-Unity-222?style=flat-square&logo=unity&logoColor=white)
