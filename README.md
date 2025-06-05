@@ -1,9 +1,18 @@
 - 👋 Hi, I’m Muthee-p
-- 👀 I’m a fullstack end web dev
-- 🌱 I’m passionate about problem solving.
+- 👾 Respawning bugs since the first line of code.  
+- If life had a Unity Editor, I’d undo my 9am meeting.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muthee-p&show_icons-true)
-![Contribution graph](https://github-readme-stats.vercel.app/api/?username=muthee-p&show_icons-true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muthee-p&show_icons-true&theme=midnight-purple)
+![Contribution graph](https://github-readme-stats.vercel.app/api/?username=muthee-p&show_icons-true&theme=midnight-purple)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+![Visitor Count](https://komarev.com/ghpvc/?username=muthee-p&color=blue)
+![Unity](https://img.shields.io/badge/-Unity-222?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine)
+
+![Meme](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+
 
 
 
